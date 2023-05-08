@@ -8,7 +8,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 Information Collection and Use
 
-I do not collect any personally identifiable information. All the saved informations of the service are not personally identifiable information and will be retained on your device and is not collected by me in any way.
+I do not collect any personally identifiable information. All the saved informations of the service are not personally identifiable information and will be retained on your device and are not collected by me in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
